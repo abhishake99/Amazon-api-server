@@ -4,4 +4,4 @@ parsel
 python-dateutil
 requests
 datetime
-gunicorn==19.7.1
+gunicorn
