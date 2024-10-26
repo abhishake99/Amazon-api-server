@@ -1,0 +1,8 @@
+flask
+lxml
+parsel
+python-dateutil
+requests
+json
+time
+datetime
